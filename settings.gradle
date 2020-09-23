@@ -1,0 +1,3 @@
+include ':android-nautilus-downloader'
+include ':sample'
+rootProject.name = "NautilusDownloader"
